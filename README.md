@@ -24,16 +24,20 @@ The final output is an interactive financial dashboard built in Tableau.
 - Significant drop in 2020 (market shock period)
 - Strong recovery from 2021 onwards
 - Uptrend peak observed around 2024–2025
+
 2️. Volatility (20-Day Rolling)
 - Highest volatility during 2020 crisis
 - Stabilization period post-2022
+  
 3️. Annual Return
 - Negative return in 2020
 - Strong positive return in 2022
 - Fluctuating yearly performance, indicating cyclical behavior
+  
 4️. Moving Average (MA20 vs MA50)
 - Used to identify short-term vs medium-term trends
 - Several crossover points indicating momentum shifts
+  
 5️. Price vs Volume Correlation
 - Weak correlation observed across year
 - Volume spikes do not consistently predict price movement
